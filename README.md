@@ -1,4 +1,4 @@
-How run file in local
+How to run app in local
 
 step 1:
 npm install
